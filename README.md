@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=babychousr&show_icons=true&theme=onedark)](https://github.com/babychousr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babychousr&layout=compact)](https://github.com/babychousr/github-readme-stats)
 
