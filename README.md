@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Chris's github stats](https://github-readme-stats.vercel.app/api?username=babychousr&show_icons=true&theme=onedark)
+[![Chris's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=BabyChou&theme=dark)](https://github.com/BabyChou/leetcode-stats)
